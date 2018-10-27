@@ -1,7 +1,5 @@
 {
- "payload": content {
-
-  "embeds": [
+ "payload": content {"embeds": [
 
     {
 
