@@ -6,7 +6,7 @@
 
 ",
 
-  "content": "Text message. Up to 2000 characters.",
+  "content": "FighterZ",
 
   "embeds": [
 
