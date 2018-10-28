@@ -1,31 +1,92 @@
 {
- "payload": content {"embeds": [
+
+  "username": "Char Aznable",
+
+  "avatar_url": " "https://cdn.discordapp.com/attachments/333248450298773516/505819746500083733/IMG_20181028_000554.jpg"
+
+",
+
+  "content": "Text message. Up to 2000 characters.",
+
+  "embeds": [
 
     {
 
-      "title": Psychological warfare",
+      "author": {
 
-      "description": "Drake teaching us how to mess with the Feddie's minds",
+        "name": "Birdie♫",
 
-      "color": 16720896,
+        "url": "https://www.reddit.com/r/cats/",
 
-      "footer": {
+        "icon_url": "https://i.imgur.com/R66g1Pe.jpg"
 
-      "text": "Click/Tap the image to view in full size / HD quality"
+      },
+
+      "title": "Title",
+
+      "url": "https://google.com/",
+
+      "description": "Text message. You can use Markdown here. *Italic* **bold** __underline__ ~~strikeout~~ [hyperlink](https://google.com) `code`",
+
+      "color": 15258703,
+
+      "fields": [
+
+        {
+
+          "name": "Text",
+
+          "value": "More text",
+
+          "inline": true
+
+        },
+
+        {
+
+          "name": "Even more text",
+
+          "value": "Yup",
+
+          "inline": true
+
+        },
+
+        {
+
+          "name": "Use `\"inline\": true` parameter, if you want to display fields in the same line.",
+
+          "value": "okay..."
+
+        },
+
+        {
+
+          "name": "Thanks!",
+
+          "value": "You're welcome :wink:"
+
+        }
+
+      ],
+
+      "thumbnail": {
+
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/4-Nature-Wallpapers-2014-1_ukaavUI.jpg"
 
       },
 
       "image": {
 
-      "url": "https://cdn.discordapp.com/attachments/333248450298773516/333248848686481410/discorddrake.png"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/A_picture_from_China_every_day_108.jpg"
 
       },
 
-      "author": {
+      "footer": {
 
-        "name": "Char Aznable",
+        "text": "Woah! So cool! :smirk:",
 
-        "icon_url": "https://cdn.discordapp.com/attachments/333248450298773516/505819746500083733/IMG_20181028_000554.jpg"
+        "icon_url": "https://i.imgur.com/fKL31aD.jpg"
 
       }
 
@@ -33,4 +94,4 @@
 
   ]
 
-} 
+}
